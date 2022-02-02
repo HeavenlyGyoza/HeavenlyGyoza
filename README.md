@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Just a learning developer tinkering around trying to break less stuff with each new attempt.<br>
-Mostly Java and SQL, and trying my hand at IaC through Docker and Ansible.
+Mostly Java and SQL, and looking at IaC through Docker and Ansible.
