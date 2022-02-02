@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Just a learning developer trying to break less stuff with each new attempt.<br>
+Just a learning developer tinkering around trying to break less stuff with each new attempt.<br>
+Mostly Java and SQL, and trying my hand at IaC through Docker and Ansible.
