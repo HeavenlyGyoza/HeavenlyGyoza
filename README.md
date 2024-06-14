@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**PurpleKoi/PurpleKoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HeavenlyGyoza/HeavenlyGyoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Just a learning developer tinkering around trying to break less stuff with each new attempt.<br>
+Just a learning developer with a passion for open-source tinkering around trying to break less stuff with each new attempt.<br>
 
