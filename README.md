@@ -14,7 +14,7 @@ I’m a full-stack developer with experience in C# and Java, passionate about op
 
 ## 🌱 A Bit More About Me
 
-Aside from tech my other hobbies are classic and auteur cinema 🎬 (tell me your favorite movie to add to my Letterboxd!), literature 📚 and gaming 🎮.
+Aside from tech my other hobbies are classic and auteur cinema 🎬 (tell me your favorite movie to add to my Letterboxd!), literature 📚, gaming 🎮 and learning languages 🌍.
 
 ![Spanish](https://img.shields.io/badge/Spanish-mediumseagreen?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=googletranslate&logoColor=white)
